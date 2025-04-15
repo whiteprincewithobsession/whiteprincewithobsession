@@ -18,7 +18,9 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ### 📈 Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteprincewithobsession&show_icons=true&theme=nightowl)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whiteprincewithobsession&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whiteprincewithobsession&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whiteprincewithobsession&theme=nord_dark)
 
 ### 👨‍💻 Codewars:
 [![codewars](https://www.codewars.com/users/whiteprincewithobsession/badges/large)](https://www.codewars.com/users/whiteprincewithobsession)
