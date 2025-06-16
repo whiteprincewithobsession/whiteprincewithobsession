@@ -4,7 +4,6 @@
 - 🔭 Currently developing as a data engineer
 - 🌱 Learning Python, Apache stack, SQL and others
 - 📚 Looking for amusing things in Data Engineering sphere
-- ⚡ Interesting fact: Vibe Coding is annoying🤓 (not about me)
 
 ### 🛠️ Technology stack:
 ![Python](https://img.shields.io/badge/-Python-090909?style=flat-square&logo=Python)
